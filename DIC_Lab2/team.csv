@@ -1,0 +1,297 @@
+"","team_long_name","buildUpPlay","chanceCreation","defense","Goals"
+"1","Ruch Chorzów",139,181,136,280
+"2","Oud-Heverlee Leuven",153,157,137,126
+"3","Jagiellonia Białystok",158,152,162,287
+"4","S.C. Olhanense",NA,165,130,138
+"5","Lech Poznań",176,185,157,372
+"6","P. Warszawa",NA,180,113,184
+"7","Cracovia",NA,168,163,235
+"8","Tubize",NA,NA,NA,35
+"9","Feirense",NA,NA,NA,27
+"10","Évian Thonon Gaillard FC",156,161,153,180
+"11","US Boulogne Cote D'Opale",NA,165,155,31
+"12","Novara",179,168,138,34
+"13","KAS Eupen",NA,160,155,28
+"14","Uniao da Madeira",NA,NA,NA,27
+"15","GFC Ajaccio",NA,179,146,37
+"16","FC Paços de Ferreira",142,169,139,292
+"17","PEC Zwolle",137,161,181,204
+"18","Leixões SC",NA,165,90,55
+"19","Go Ahead Eagles",160,131,141,74
+"20","AC Bellinzona",NA,148,138,128
+"21","FC Penafiel",147,146,121,29
+"22","FC Volendam",NA,NA,NA,38
+"23","FC Dordrecht",134,176,164,24
+"24","FC Lausanne-Sports",NA,160,141,99
+"25","SC Cambuur",126,159,138,119
+"26","SC Bastia",171,156,134,165
+"27","SM Caen",NA,165,165,220
+"28","Rio Ave FC",157,177,153,248
+"29","Estoril Praia",174,139,150,167
+"30","Vitória Guimarães",NA,164,158,300
+"31","Córdoba CF",141,171,129,22
+"32","Granada CF",166,175,155,179
+"33","Lugano",NA,NA,NA,46
+"34","Sassuolo",188,186,137,141
+"35","FCV Dender EH",NA,NA,NA,44
+"36","Neuchâtel Xamax",NA,190,150,171
+"37","Trofense",NA,NA,NA,25
+"38","Górnik Łęczna",140,139,149,61
+"39","Polonia Bytom",NA,122,162,245
+"40","Zagłębie Lubin",NA,140,210,207
+"41","Pogoń Szczecin",NA,185,157,152
+"42","Widzew Łódź",190,184,139,122
+"43","Śląsk Wrocław",NA,165,87,318
+"44","Zawisza Bydgoszcz",145,168,143,75
+"45","Piast Gliwice",183,169,129,204
+"46","Lechia Gdańsk",NA,150,153,279
+"47","Podbeskidzie Bielsko-Biała",193,166,102,169
+"48","Inverness Caledonian Thistle",169,162,130,345
+"49","Angers SCO",NA,180,140,40
+"50","FC St. Pauli",NA,190,185,35
+"51","1. FC Nürnberg",146,161,148,193
+"52","Hertha BSC Berlin",175,169,152,238
+"53","Bayer 04 Leverkusen",157,192,183,483
+"54","Burnley",NA,210,205,70
+"55","Fortuna Düsseldorf",198,141,145,39
+"56","Leicester City",NA,185,210,114
+"57","KV Mechelen",NA,146,157,285
+"58","TSG 1899 Hoffenheim",NA,191,170,400
+"59","FC Ingolstadt 04",152,151,134,33
+"60","Odra Wodzisław",NA,155,205,50
+"61","Korona Kielce",NA,169,166,237
+"62","SV Darmstadt 98",179,174,129,38
+"63","Vitesse",145,161,180,423
+"64","Dundee FC",NA,151,154,127
+"65","Karlsruher SC",NA,205,170,30
+"66","Sevilla FC",NA,206,183,478
+"67","Getafe CF",NA,149,164,345
+"68","UD Las Palmas",NA,187,171,45
+"69","Athletic Club de Bilbao",NA,184,170,415
+"70","Arka Gdynia",NA,147,140,77
+"71","Club Brugge KV",NA,170,148,421
+"72","Cardiff City",NA,182,146,32
+"73","Moreirense FC",139,144,138,101
+"74","1. FC Kaiserslautern",167,174,143,72
+"75","SpVgg Greuther Fürth",NA,141,170,26
+"76","SC Freiburg",151,144,144,245
+"77","Rayo Vallecano",NA,161,178,247
+"78","CA Osasuna",NA,193,177,232
+"79","SD Eibar",165,179,142,83
+"80","CD Numancia",NA,144,144,38
+"81","Real Zaragoza",154,165,140,159
+"82","FC Energie Cottbus",NA,161,146,30
+"83","FC Augsburg",NA,188,150,201
+"84","Partick Thistle F.C.",135,151,143,135
+"85","Hamilton Academical FC",NA,200,195,185
+"86","Chelsea",NA,196,125,583
+"87","Manchester City",NA,210,180,606
+"88","Dunfermline Athletic",NA,168,148,40
+"89","SC Paderborn 07",174,163,141,31
+"90","Portsmouth",NA,195,150,72
+"91","N.E.C.",150,156,141,310
+"92","Southampton",NA,205,210,216
+"93","St. Johnstone FC",NA,150,130,308
+"94","Sunderland",NA,175,160,333
+"95","Waasland-Beveren",NA,134,114,105
+"96","RC Recreativo",NA,130,130,34
+"97","AS Nancy-Lorraine",NA,160,210,203
+"98","Blackpool",NA,205,210,55
+"99","Aberdeen",NA,210,200,365
+"100","Stade Brestois 29",NA,165,165,99
+"101","Atalanta",NA,170,165,283
+"102","Willem II",NA,166,153,222
+"103","De Graafschap",NA,150,136,130
+"104","Wigan Athletic",NA,190,140,200
+"105","Cagliari",134,196,187,309
+"106","Catania",175,141,147,251
+"107","Chievo Verona",187,170,156,285
+"108","Empoli",145,186,160,86
+"109","Fiorentina",NA,170,135,440
+"110","Livorno",NA,160,135,66
+"111","Palermo",168,158,152,351
+"112","Lazio",188,220,190,417
+"113","Rangers",NA,210,200,324
+"114","Middlesbrough",NA,190,130,28
+"115","FC Metz",NA,150,135,31
+"116","Siena",NA,170,140,149
+"117","RCD Espanyol",NA,196,165,338
+"118","Bolton Wanderers",167,171,145,181
+"119","Real Sociedad",162,166,155,316
+"120","Milan",NA,160,150,496
+"121","GKS Bełchatów",143,139,132,190
+"122","KV Kortrijk",NA,150,185,267
+"123","KV Oostende",155,140,133,102
+"124","AC Ajaccio",NA,180,140,116
+"125","Levante UD",NA,182,138,241
+"126","AJ Auxerre",168,164,119,168
+"127","Tottenham Hotspur",NA,165,150,481
+"128","RC Lens",NA,180,150,107
+"129","Olympique de Marseille",NA,210,175,462
+"130","Ajax",110,145,181,647
+"131","Falkirk",NA,200,200,68
+"132","Kilmarnock",NA,205,200,346
+"133","Udinese",NA,199,160,415
+"134","Wolverhampton Wanderers",NA,210,210,118
+"135","Real Betis Balompié",145,155,165,225
+"136","FC Twente",NA,172,174,509
+"137","Boavista FC",153,128,148,51
+"138","Sparta Rotterdam",NA,140,90,76
+"139","Real Madrid CF",NA,200,170,843
+"140","FC Barcelona",NA,152,178,849
+"141","RSC Anderlecht",149,160,175,427
+"142","Inter",182,203,114,496
+"143","LOSC Lille",NA,150,180,450
+"144","PSV",153,125,128,652
+"145","Ross County FC",153,153,123,192
+"146","Liverpool",151,136,161,531
+"147","West Ham United",171,170,108,326
+"148","Blackburn Rovers",185,159,157,175
+"149","Birmingham City",NA,210,210,75
+"150","West Bromwich Albion",NA,195,210,305
+"151","RCD Mallorca",172,163,156,238
+"152","Hull City",NA,195,210,144
+"153","Everton",137,146,170,439
+"154","Legia Warszawa",NA,145,175,409
+"155","FC Groningen",142,170,149,390
+"156","Bournemouth",NA,200,210,45
+"157","Le Mans FC",NA,190,200,79
+"158","Roma",NA,190,155,530
+"159","FC Lorient",158,165,138,378
+"160","Reggio Calabria",NA,130,140,30
+"161","Racing Santander",NA,184,137,160
+"162","SV Werder Bremen",NA,180,205,423
+"163","VfL Wolfsburg",170,185,167,463
+"164","1. FC Köln",NA,158,165,226
+"165","Le Havre AC",NA,155,130,30
+"166","En Avant de Guingamp",169,150,139,122
+"167","Olympique Lyonnais",NA,180,155,497
+"168","NAC Breda",NA,141,141,294
+"169","Gil Vicente FC",176,147,132,110
+"170","Portimonense",NA,NA,NA,29
+"171","Sporting CP",178,147,174,411
+"172","União de Leiria, SAD",NA,150,150,85
+"173","SL Benfica",178,185,171,568
+"174","FC Porto",173,190,178,541
+"175","Eintracht Braunschweig",NA,195,157,29
+"176","Servette FC",NA,164,143,77
+"177","RC Deportivo de La Coruña",157,158,154,241
+"178","Borussia Mönchengladbach",NA,144,127,403
+"179","Borussia Dortmund",170,170,171,551
+"180","Hamburger SV",NA,200,175,344
+"181","Heracles Almelo",NA,155,136,403
+"182","Reading",NA,210,200,43
+"183","St. Mirren",NA,210,200,257
+"184","Roda JC Kerkrade",NA,124,139,343
+"185","Torino",209,189,125,241
+"186","CF Os Belenenses",157,125,135,148
+"187","Naval 1° de Maio",NA,135,121,71
+"188","Eintracht Frankfurt",153,159,144,296
+"189","Watford",NA,205,205,40
+"190","FC Bayern Munich",NA,205,175,653
+"191","FC Vaduz",141,137,133,100
+"192","Arsenal",NA,150,135,573
+"193","Crystal Palace",NA,205,185,119
+"194","Girondins de Bordeaux",NA,190,195,404
+"195","AS Monaco",NA,150,140,287
+"196","FC Nantes",189,153,132,135
+"197","OGC Nice",NA,155,210,342
+"198","Dijon FCO",NA,165,130,38
+"199","Stade de Reims",NA,150,127,168
+"200","VVV-Venlo",NA,150,150,152
+"201","Paris Saint-Germain",NA,160,210,568
+"202","Norwich City",NA,171,136,160
+"203","Stade Rennais FC",NA,195,165,367
+"204","AS Saint-Étienne",NA,175,90,371
+"205","Grenoble Foot 38",NA,195,195,55
+"206","Bologna",NA,165,135,263
+"207","Brescia",141,158,150,34
+"208","Heart of Midlothian",NA,210,200,317
+"209","Málaga CF",NA,155,155,377
+"210","UD Almería",NA,160,165,202
+"211","CD Tenerife",163,161,171,40
+"212","Xerez Club Deportivo",NA,138,153,38
+"213","Real Sporting de Gijón",NA,185,195,200
+"214","Valenciennes FC",NA,165,155,256
+"215","FC Sochaux-Montbéliard",NA,125,160,246
+"216","Napoli",180,215,159,514
+"217","Hellas Verona",157,148,115,145
+"218","Pescara",NA,180,125,27
+"219","Fulham",NA,190,115,265
+"220","Cesena",143,170,145,98
+"221","Sampdoria",NA,125,135,318
+"222","Juventus",NA,177,145,543
+"223","Lecce",NA,162,150,121
+"224","Frosinone",NA,156,193,35
+"225","Hannover 96",NA,146,134,359
+"226","1. FSV Mainz 05",NA,154,170,320
+"227","Atlético Madrid",NA,185,159,524
+"228","FC Utrecht",NA,182,125,408
+"229","RC Celta de Vigo",152,139,169,184
+"230","VfL Bochum",164,172,172,72
+"231","DSC Arminia Bielefeld",166,159,138,29
+"232","Celtic",180,178,165,695
+"233","Motherwell",172,149,146,403
+"234","FC Aarau",NA,180,150,153
+"235","FC Basel",170,186,158,619
+"236","Dundee United",NA,205,200,438
+"237","Toulouse FC",NA,165,140,339
+"238","Grasshopper Club Zürich",NA,184,153,429
+"239","Bari",NA,193,160,76
+"240","KSV Cercle Brugge",NA,165,168,213
+"241","Standard de Liège",NA,173,157,341
+"242","Sporting Charleroi",160,146,139,201
+"243","KRC Genk",NA,182,149,348
+"244","Lierse SK",171,169,152,113
+"245","KAA Gent",NA,170,135,390
+"246","Beerschot AC",NA,142,141,174
+"247","Sporting Lokeren",NA,151,149,279
+"248","Sint-Truidense VV",NA,153,138,115
+"249","RAEC Mons",160,168,138,129
+"250","KSV Roeselare",NA,125,205,62
+"251","SV Zulte-Waregem",NA,150,200,306
+"252","KVC Westerlo",148,144,146,217
+"253","Swansea City",NA,167,155,233
+"254","Parma",NA,168,142,272
+"255","Queens Park Rangers",NA,210,210,115
+"256","FC Sion",155,165,146,371
+"257","FC Schalke 04",NA,195,185,426
+"258","FC St. Gallen",146,115,133,276
+"259","FC Thun",152,166,145,279
+"260","BSC Young Boys",NA,202,158,529
+"261","Stoke City",NA,167,153,322
+"262","FC Luzern",165,160,151,421
+"263","Villarreal CF",NA,160,165,364
+"264","SC Beira Mar",NA,157,155,93
+"265","CS Marítimo",182,186,126,316
+"266","Amadora",NA,NA,NA,26
+"267","CD Nacional",167,150,141,332
+"268","Académica de Coimbra",150,166,138,240
+"269","ADO Den Haag",160,151,159,366
+"270","Excelsior",NA,162,105,154
+"271","RKC Waalwijk",142,133,99,153
+"272","SC Heerenveen",NA,162,137,470
+"273","AZ",NA,167,174,492
+"274","Genoa",NA,175,135,392
+"275","Feyenoord",154,165,126,489
+"276","Vitória Setúbal",149,158,132,238
+"277","ES Troyes AC",148,147,137,71
+"278","FC Zürich",157,151,146,468
+"279","Montpellier Hérault SC",162,142,157,344
+"280","Hibernian",NA,200,200,259
+"281","Aston Villa",NA,185,130,335
+"282","Manchester United",NA,180,130,582
+"283","Newcastle United",NA,195,155,324
+"284","SC Braga",NA,158,120,398
+"285","Wisła Kraków",NA,183,157,332
+"286","Valencia CF",NA,175,142,484
+"287","Elche CF",171,164,158,65
+"288","VfB Stuttgart",NA,200,175,415
+"289","Hércules Club de Fútbol",NA,152,159,36
+"290","Real Valladolid",153,167,161,170
+"291","AC Arles-Avignon",156,138,158,21
+"292","FC Arouca",174,160,109,101
+"293","Termalica Bruk-Bet Nieciecza",NA,NA,NA,33
+"294","Tondela",NA,NA,NA,34
+"295","Carpi",190,160,115,37
+"296","Royal Excel Mouscron",150,150,140,71
